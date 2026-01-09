@@ -372,7 +372,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Hiomio)
+- **Kaluri Himabindhu** - *Initial work* - [Github](https://github.com/Hiomio)
 
 ## 📄 License
 
