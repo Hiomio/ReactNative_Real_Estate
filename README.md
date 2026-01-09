@@ -372,7 +372,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/marioagbanobi)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Hiomio)
 
 ## 📄 License
 
@@ -388,7 +388,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email marioagbanobi@gmail.com or open an issue in the repository.
+For support, email blessykaluri@gmail.com or open an issue in the repository.
 
 ## 🌟 Show Your Support
 
